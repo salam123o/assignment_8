@@ -1,0 +1,13 @@
+colourName_in_English^colourName_in_Hindi^colourName_in_Telugu
+red^लाल^ఎరుపు
+Orange^नारंगी^నారింజ
+Yellow^पीला^పసుపు
+Green^हरा^ఆకుపచ్చ
+Blue^नीला^నీలం
+White^सफेद^తెలుపు
+Purple^बैंगनी^ఊదా
+Brown^भूरा^గోధుమ
+Black^काला^నలుపు
+Golden^स्वर्ण^బంగారు
+NavyBlue^गहरा नीला^నేవీబ్లూ
+Silver^चाँदी^వెండి

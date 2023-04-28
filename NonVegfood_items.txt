@@ -1,0 +1,11 @@
+NonVegFoodName|Taste
+chickenbiryani|awesome
+muttonbiryani|yummy
+chicken65|spicy
+chickenmanchuria|sweetandspicy
+gongurabiryani|good
+chickenfriedrice|spicy
+chickensoup|hot
+chickenoddles|salty
+prwnsbiryani|bitter
+fishbiryani|good

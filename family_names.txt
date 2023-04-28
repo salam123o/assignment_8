@@ -1,0 +1,11 @@
+FamilyMemberName*Relation
+anwar*father
+fathima*mother
+kalam*brother
+reshma*sister
+ayesha*sister
+areef*brother
+sattar*grandfather
+ramizunisa*grandmother
+gousi*brother
+vaheda*aunt

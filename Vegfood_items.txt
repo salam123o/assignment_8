@@ -1,0 +1,12 @@
+VegFoodName|Taste
+vegbiryani|good
+veggobi|spicy
+vegmanchuria|sweetandspicy
+vegfriedrice|yummy
+vegnoddles|hot
+vegsou|spicy
+tomatosoup|hot
+paneerbiryani|good
+paneermanchuria|spicyandsweet
+mushroombiryani|yummy
+

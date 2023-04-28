@@ -1,0 +1,13 @@
+ MonthName&Season
+january&Winter
+february&Winter
+march&Summer
+april&Summer
+may&Summer
+june&Monsoon
+july&Monsoon
+august&Monsoon
+september&Monsoon
+october&Autumn
+november&Autumn
+december&Winter
